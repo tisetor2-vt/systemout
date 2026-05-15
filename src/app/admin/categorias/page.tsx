@@ -1,3 +1,4 @@
+"use client";
 import { CategoriesManager } from "@/components/admin/categories-manager";
 
 export default function CategoriasPage() {
